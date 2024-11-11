@@ -1,12 +1,10 @@
 About Me
 
-I am an aspiring IT Management professional with a focus on system integration, data analytics, and digital transformation. My recent project involved integrating Microsoft Dynamics 365 Business Central to optimize hospital operations, demonstrating my skills in enterprise resource planning, cloud services, and data management.
+I am an aspiring IT Management professional with a focus on system integration, data analytics, and digital transformation. My recent project involved integrating Microsoft Dynamics 365 Business Central to optimize hospital operations, demonstrating my skills in enterprise resource planning, cloud services, and data management. This is one of the project I was busy with me and my team [XITM Project 2024](https://github.com/Lehlogonolo16/Work-Integrated-Learning-Project)
 
     Location:Polokwane, Limpopo
     Email:lehlogonolotshehla16@gmail.com
     LinkedIn: lehlogonolotshehla16
-My project is below:
-[XITM Project 2024](https://github.com/Lehlogonolo16/Work-Integrated-Learning-Project)
 Skills
 Technical Skills
 
